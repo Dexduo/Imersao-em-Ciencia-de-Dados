@@ -1,0 +1,2 @@
+Arquivo de teste de criação de um arquivo.
+Nesse diretório guardaremos nossos dados a ser utilizados nos estudos.
